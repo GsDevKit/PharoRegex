@@ -1,0 +1,10 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'platform/phar09-',
+	#condition : [
+		'pharo[9-]'
+	],
+	#packageNames : [
+		'Regex-Pharo9-'
+	],
+	#comment : ''
+}
