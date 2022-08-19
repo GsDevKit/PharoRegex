@@ -1,0 +1,13 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'platform/gs3.6-',
+		'tests/tests'
+	],
+	#packageNames : [
+		'Regex-Core'
+	],
+	#comment : ''
+}
