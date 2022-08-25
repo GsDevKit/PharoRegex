@@ -1,5 +1,5 @@
 RwPlatformNestedProjectLoadComponentV2 {
-	#name : 'platform/phar09-',
+	#name : 'platform/pharo9-',
 	#condition : [
 		'pharo[9-]'
 	],

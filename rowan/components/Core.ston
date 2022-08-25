@@ -1,7 +1,9 @@
 RwSimpleProjectLoadComponentV2 {
 	#name : 'Core',
 	#condition : 'common',
-	#projectNames : [ ],
+	#projectNames : [
+		'GsBasePharoCompatibility'
+	],
 	#componentNames : [
 		'platform/gs3.6-',
 		'tests/tests'
