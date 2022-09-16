@@ -1,6 +1,6 @@
 Extension { #name : 'RxMatchOptimizer' }
 
-{ #category : '*Regex-GemStone36-' }
+{ #category : '*Regex-Core-GemStone36-' }
 RxMatchOptimizer class >> new [
 
 	^ super new

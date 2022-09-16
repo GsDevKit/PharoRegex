@@ -1,6 +1,6 @@
 Extension { #name : 'SequenceableCollection' }
 
-{ #category : '*Regex-GemStone36-' }
+{ #category : '*Regex-Core-GemStone36-' }
 SequenceableCollection >> splitOn: splitter [
 	"Split a collection of objects based on a splitter. splitter - can be a subsequence, a Block or a Regex (String receiver only). Any other object used as a splitter is treated as an Array containing that object."
 	"At this point, only Regex splitting is implemented."

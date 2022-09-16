@@ -1,6 +1,6 @@
 Extension { #name : 'RxCharSetParser' }
 
-{ #category : '*Regex-GemStone36-' }
+{ #category : '*Regex-Core-GemStone36-' }
 RxCharSetParser class >> new [
 
 	^ super new

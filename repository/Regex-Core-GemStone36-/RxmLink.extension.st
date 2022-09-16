@@ -1,6 +1,6 @@
 Extension { #name : 'RxmLink' }
 
-{ #category : '*Regex-GemStone36-' }
+{ #category : '*Regex-Core-GemStone36-' }
 RxmLink class >> new [
 
 	^ super new
